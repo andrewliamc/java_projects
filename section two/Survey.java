@@ -23,6 +23,8 @@ public class Survey {
         System.out.println("How many times a week do you buy fast food?");
         int foodAmount = scanner.nextInt();
 
+        scanner.close();
+
         // *********PART B: RESPONDING TO THE USER**********
         System.out.println("Thank you " + name + " for answering all <counter> questions");
         System.out.println("Weekly, you spend $" + (coffeePrice * coffeeAmount) + " on coffee");
