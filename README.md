@@ -22,3 +22,8 @@ Learning Basics: <br>
 - syntax conventions are different for long and char (long must have an "L" at the end and char is single quotes)
 
 6. Learning the standard mathematical operators that are available across programming languages.
+7. Learn how to cast type with Java.
+8. Use Scanner to collect user input: <br>
+```nextInt()``` - scan for int <br>
+```nextDouble()``` - scan for double <br>
+```nextLine()``` - scan for text <br>
